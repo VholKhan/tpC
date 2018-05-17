@@ -1,6 +1,6 @@
 /*%% Basic includes and var declaration %%*/
 #include <stdio.h>
-#include <tabDyn.h>
+#include "tabDyn.h"
 int base_size, end_tab_pos;
 /*%% EOB %%*/
 
